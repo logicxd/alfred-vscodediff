@@ -4,7 +4,8 @@
 
 ![New](https://user-images.githubusercontent.com/12219300/166203149-ac18d56b-2262-4bda-93d9-f3647a616d54.gif)
 
-Show the diff of the last 2 items in clipboard history using VSCode.
+Show the diff of the last 2 items in clipboard history using VSCode. This relies on [Alfred 4](https://www.alfredapp.com/) workflows to automate the process.
+
 
 # Old Way
 
