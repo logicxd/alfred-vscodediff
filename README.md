@@ -12,6 +12,10 @@ Show the diff of the last 2 items in clipboard history using VSCode.
 
 We would have to create 2 new files temporarily, copy-and-paste them, and then select the files to compare.
 
+# How To Use
+
+Download the latest `*.alfredworkflow` file from the [release page](https://github.com/logicxd/alfred-vscodediff/releases)
+
 # How It Works
 
 ![Overview](https://user-images.githubusercontent.com/12219300/166205888-6dac92fa-45b1-423e-a002-e07e024dd871.png)
