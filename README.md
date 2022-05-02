@@ -14,7 +14,7 @@ We would have to create 2 new files temporarily, copy-and-paste them, and then s
 
 # How To Use
 
-Download the latest `*.alfredworkflow` file from the [release page](https://github.com/logicxd/alfred-vscodediff/releases)
+Download the latest `*.alfredworkflow` file from the [release page](https://github.com/logicxd/alfred-vscodediff/releases).
 
 # How It Works
 
