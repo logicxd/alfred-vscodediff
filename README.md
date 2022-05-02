@@ -16,6 +16,9 @@ We would have to create 2 new files temporarily, copy-and-paste them, and then s
 
 Download the latest `*.alfredworkflow` file from the [release page](https://github.com/logicxd/alfred-vscodediff/releases).
 
+Commands: 
+* `VSCodeDiff`
+
 # How It Works
 
 ![Overview](https://user-images.githubusercontent.com/12219300/166205888-6dac92fa-45b1-423e-a002-e07e024dd871.png)
