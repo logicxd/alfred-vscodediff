@@ -1,3 +1,5 @@
+<img width=128 src='https://user-images.githubusercontent.com/12219300/166205750-cd113163-843b-450f-8bab-cb05c466a0c3.png'>
+
 # Alfred VSCodeDiff
 
 ![New](https://user-images.githubusercontent.com/12219300/166203149-ac18d56b-2262-4bda-93d9-f3647a616d54.gif)
@@ -12,7 +14,7 @@ We would have to create 2 new files temporarily, copy-and-paste them, and then s
 
 # How It Works
 
-![Overview](https://user-images.githubusercontent.com/12219300/166204290-33e68e5e-e8ee-4bc1-a53b-2ac8dde35275.png)
+![Overview](https://user-images.githubusercontent.com/12219300/166205888-6dac92fa-45b1-423e-a002-e07e024dd871.png)
 
 VSCode provides a way to compares files via terminal with the command `code --diff <file1> <file2>`. So we create 2 temporary files inside the folder `/tmp/com.aungmoe.alfred-vscodediff` and pass those 2 files to the VSCode.
 
