@@ -29,6 +29,10 @@ VSCode provides a way to compares files via terminal with the command `code --di
 
 If you want to change the folder path where the files are created, you can open the environments of the workflow (it's the `[x]` button on the top-right) and change the value of `folderPath`.
 
+# Contributions
+
+Not sure what else it can be done but you're welcome to contribute to add onto this workflow! Just create a pull request with a detailed description of your changes. 
+
 # License
 
 [MIT License](https://github.com/logicxd/alfred-vscodediff/blob/main/LICENSE)
