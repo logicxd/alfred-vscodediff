@@ -1,12 +1,11 @@
-<p align="center">
-  <img width=112 src='https://user-images.githubusercontent.com/12219300/166205750-cd113163-843b-450f-8bab-cb05c466a0c3.png'>
-</p>
-<p align="center">
+<h1>
+  <img width=36 src='https://user-images.githubusercontent.com/12219300/166205750-cd113163-843b-450f-8bab-cb05c466a0c3.png'>
+  AlfredVSCodeDiff
   <a href="https://github.com/logicxd/alfred-vscodediff/releases/latest/">
     <img alt="Downloads" src="https://img.shields.io/github/downloads/logicxd/alfred-vscodediff/total?color=green&label=Downloads"></a>
-</p>
-
-# Alfred VSCodeDiff
+  <a href="https://github.com/logicxd/alfred-vscodediff/blob/main/LICENSE">
+    <img alt="License MIT" src="https://img.shields.io/badge/license-MIT-green"></a>
+</h1>
 
 ![New](https://user-images.githubusercontent.com/12219300/166203149-ac18d56b-2262-4bda-93d9-f3647a616d54.gif)
 
@@ -32,7 +31,3 @@ If you want to change the folder path where the files are created, you can open 
 # Contributions
 
 Not sure what else it can be done but you're welcome to contribute to add onto this workflow! Just create a pull request with a detailed description of your changes. 
-
-# License
-
-[MIT License](https://github.com/logicxd/alfred-vscodediff/blob/main/LICENSE)
