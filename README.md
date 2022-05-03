@@ -1,5 +1,9 @@
 <img width=128 src='https://user-images.githubusercontent.com/12219300/166205750-cd113163-843b-450f-8bab-cb05c466a0c3.png'>
 
+<a href="https://github.com/logicxd/alfred-vscodediff/releases/latest/">
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/logicxd/alfred-vscodediff/total?color=green&label=Downloads"><br/>
+</a>
+
 # Alfred VSCodeDiff
 
 ![New](https://user-images.githubusercontent.com/12219300/166203149-ac18d56b-2262-4bda-93d9-f3647a616d54.gif)
