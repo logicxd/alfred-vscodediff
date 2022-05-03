@@ -24,7 +24,7 @@ Commands:
 
 ![Overview](https://user-images.githubusercontent.com/12219300/166205888-6dac92fa-45b1-423e-a002-e07e024dd871.png)
 
-VSCode provides a way to compares files via terminal with the command `code --diff <file1> <file2>`. So we create 2 temporary files inside the folder `/tmp/com.aungmoe.alfred-vscodediff` and pass those 2 files to the VSCode.
+VSCode provides a way to compares files via terminal with the command `code --diff <file1> <file2>`. So we create 2 temporary files inside the folder `/tmp/com.aungmoe.alfred-vscodediff` and pass those 2 files to the VSCode. Files inside the `/tmp` folder are cleared after 3 days of not accessing. 
 
 # Modifications
 
