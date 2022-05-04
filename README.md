@@ -13,7 +13,7 @@ Show the diff of the last 2 items in clipboard history using VSCode. This relies
 
 # How To Use
 
-Download the latest `*.alfredworkflow` file from the [release page](https://github.com/logicxd/alfred-vscodediff/releases).
+Download the latest `VSCodeDiff.alfredworkflow` file from the [release page](https://github.com/logicxd/alfred-vscodediff/releases). Then just double click it to let Alfred install the workflow for you.
 
 Commands: 
 * Use the keyword `VSCodeDiff` to perform the diff.
