@@ -5,6 +5,8 @@
     <img alt="Downloads" src="https://img.shields.io/github/downloads/logicxd/alfred-vscodediff/total?color=green&label=Downloads"></a>
   <a href="https://github.com/logicxd/alfred-vscodediff/blob/main/LICENSE">
     <img alt="License MIT" src="https://img.shields.io/badge/license-MIT-green"></a>
+  <a href="http://www.packal.org/workflow/vscodediff">
+    <img alt="PACKAL" src="https://img.shields.io/badge/PACKAL--x.svg?style=social&color=purple"></a>
 </h1>
 
 ![New](https://user-images.githubusercontent.com/12219300/166203149-ac18d56b-2262-4bda-93d9-f3647a616d54.gif)
