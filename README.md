@@ -23,8 +23,10 @@ Show the diff of the last 2 items in clipboard history using VSCode. This relies
 
 Now you have VSCodeDiff enabled! 
 
-Commands: 
-* Use the keyword `VSCodeDiff` to perform the diff.
+Keywords to select workflow: 
+* `vscodediff`
+* `diff`
+* `codediff`
 
 # How It Works
 
