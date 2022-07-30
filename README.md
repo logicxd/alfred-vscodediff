@@ -11,11 +11,17 @@
 
 ![New](https://user-images.githubusercontent.com/12219300/166203149-ac18d56b-2262-4bda-93d9-f3647a616d54.gif)
 
-Show the diff of the last 2 items in clipboard history using VSCode. This relies on [Alfred 4](https://www.alfredapp.com/) workflows to automate the process.
+Show the diff of the last 2 items in clipboard history using VSCode. This relies on [Alfred](https://www.alfredapp.com/) workflows to automate the process.
 
 # How To Use
 
-Download the latest `VSCodeDiff.alfredworkflow` file from the [release page](https://github.com/logicxd/alfred-vscodediff/releases). Then just double click it to let Alfred install the workflow for you.
+1. Setup Visual Studio Code for terminal. 
+   1. Open Visual Studio Code
+   2. CMD + SHIFT + P (Opens Command Palette)
+   3. Search and run "Install 'code' command in PATH"
+2. Download the latest `VSCodeDiff.alfredworkflow` file from the [release page](https://github.com/logicxd/alfred-vscodediff/releases). Then just double click it to let Alfred install the workflow.
+
+Now you have VSCodeDiff enabled! 
 
 Commands: 
 * Use the keyword `VSCodeDiff` to perform the diff.
