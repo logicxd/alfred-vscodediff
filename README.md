@@ -1,3 +1,5 @@
+<img width="729" alt="Screen Shot 2023-01-02 at 8 40 46 PM" src="https://user-images.githubusercontent.com/12219300/210301082-933ceea1-3cf3-412f-a264-b7b4b47f2bc7.png">
+
 <h1>
   <img width=36 src='https://user-images.githubusercontent.com/12219300/166205750-cd113163-843b-450f-8bab-cb05c466a0c3.png'>
   AlfredVSCodeDiff
