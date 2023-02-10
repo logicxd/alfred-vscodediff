@@ -25,20 +25,11 @@ Show the diff of the last 2 items in clipboard history using VSCode. This relies
 
 Now you have VSCodeDiff enabled! 
 
-Keywords to select workflow: 
-* `vscodediff`
-* `diff`
-* `codediff`
-
 # How It Works
 
 ![Overview](https://user-images.githubusercontent.com/12219300/166205888-6dac92fa-45b1-423e-a002-e07e024dd871.png)
 
-VSCode provides a way to compares files via terminal with the command `code --diff <file1> <file2>`. So we create 2 temporary files inside the folder `/tmp/com.aungmoe.alfred-vscodediff` and pass those 2 files to the VSCode. Files inside the `/tmp` folder are cleared [after 3 days of not accessing](https://superuser.com/questions/187071/in-macos-how-often-is-tmp-deleted). 
-
-# Modifications
-
-If you want to change the folder path where the files are created, you can open the environments of the workflow (it's the `[x]` button on the top-right) and change the value of `folderPath`.
+VSCode provides a way to compares files via terminal with the command `code --diff <file1> <file2>`. So we create 2 temporary files inside Alfred's cache and use those to compare.
 
 # Contributions
 
