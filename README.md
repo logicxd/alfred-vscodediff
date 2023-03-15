@@ -22,6 +22,7 @@ Show the diff of the last 2 items in clipboard history using VSCode. This relies
    2. CMD + SHIFT + P (Opens Command Palette)
    3. Search and run "Install 'code' command in PATH"
 2. Download the latest `VSCodeDiff.alfredworkflow` file from the [release page](https://github.com/logicxd/alfred-vscodediff/releases). Then just double click it to let Alfred install the workflow.
+3. Enable Clipboard History in Alfred
 
 Now you have VSCodeDiff enabled! 
 
